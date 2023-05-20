@@ -1,0 +1,7 @@
+me/smeo/sorcerymcjobs/models/JobStats.class
+me/smeo/sorcerymcjobs/commands/jobsCommand.class
+me/smeo/sorcerymcjobs/commands/SubCommand.class
+me/smeo/sorcerymcjobs/commands/CommandManager.class
+me/smeo/sorcerymcjobs/commands/SubCommands/joinCommand.class
+me/smeo/sorcerymcjobs/DB/Database.class
+me/smeo/sorcerymcjobs/SorceryMCJobs.class

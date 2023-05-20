@@ -1,0 +1,10 @@
+name: SorceryMCJobs
+version: '${project.version}'
+main: me.smeo.sorcerymcjobs.SorceryMCJobs
+api-version: 1.19
+authors: [ Smeo, MrDonut ]
+description: Jobs plugin for SorceryMC
+commands:
+  jobs:
+    description: To do with jobs
+
